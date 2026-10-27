@@ -1,0 +1,71 @@
+Create a code for an application. APLI’s identifier should be focused on Edmonton/Alberta area species, and the application should have an account set-up so the participants won’t lose their progress. Here is the report:
+
+Background:
+
+In this experiment, I will create an application called APLI (Animals and Plants Logger and Identifier), an educational game/activity which will ‘capture’ a picture of a species and then identify it, as well as determining rarities and earning Experience Points (XP), to see if it can reduce screen time and increase engagement in local biodiversity. 
+
+	A cross-sectional study conducted in Islamabad, Pakistan, studied the impact of screen time on school performance with 310 children with a median age of 8 years old (Latif et al., 2025). It showed that higher amounts of screen time were connected to poor grades among children, dozing off in class, and negative or strongly negative attitudes in the classroom, compared to students who were better in all of these categories (Latif et al., 2025). They also assessed fine motor skills and visuospatial skills, and found that yet again, children with higher screen times took longer to finish the task given to test those skills (Latif et al., 2025).
+
+	On the other hand, there are various benefits with no/lesser screen time; it improves attention span, allows for more opportunities to seek out a creative hobby, contributes better quality of sleep, just to name a few (Screen Time Alternatives, 2024). Outdoor play in green spaces (such as a park or garden) is, without a doubt, one of the best ways to replace screen time, comes with many benefits, and is essential for children. It can improve children’s mental health, emotional wellbeing, focus, emotional resilience, lower stress levels, and of course benefits their physical health in many ways (United Nations Children's Fund [UNICEF], 2025).
+
+	My hope for this experiment is to create an activity that replaces screen time with a game that is educational and encourages exploration in our local environment, which can hopefully result in healthier children who are aware of climate change and how nature is affected by it. After this experiment, I want to develop an improved version of APLI that can be used as a valuable tool in schools and become more widespread. 
+
+	This topic is important because children will be the most affected by the consequences of climate change in the future. By allowing children to explore and play in green spaces, they learn about their environment and foster a connection with nature, which is crucial in caring for the planet when they are older. Additionally, learning about biodiversity from a young age will help them in the future to become better citizens of the planet.   
+
+Problem:
+
+Does an application that is dedicated to identifying local plants and animals in a gamified way reduce unbeneficial screen time and increase interest and engagement in going outside? 
+
+Hypothesis: 
+
+If APLI is used among children aged 7-11, then their unbeneficial screen time duration will decrease while their engagement with local biodiversity will increase. This is because APLI is designed to include ‘rarities’ for different species they discover. The more rare a species is, they get a higher amount of Experience Points (XP) - a digital and immediate reward for ‘collecting’ a species, which instantly results in the brian’s dopamine system. Once the child learns something (what species they found and the basic facts about it) connected to this release of dopamine, it encourages persistence to do the task again (What happens in Your brain, 2026). I believe that this will lead to more use of APLI and going outside to seek more species instead of returning to mindless screen-time right after. 
+
+Variables: 
+
+For this experiment, the controlled variables will be the age-range of participants (7-11 years old), instructions given before the experiment is conducted, and the application itself. The manipulated variable will be the use of APLI over the course of 3 phases, each 3 days long - the first phase without APLI, the second phase with APLI, and the third phase without APLI once again. The responding variables will be the screen time tracked on the child’s primary device and outside time as recorded by a parent/guardian over these three phases to determine a baseline, a change, and a possible result after the change is taken away.
+
+Materials:
+
+For this experiment, I will need:
+A computer/device to use and create APLI
+
+Procedure:
+
+Pre-Phase
+Build the application for APLI using AI to create the code
+Search for 25 participants and give their parents/guardians a consent form for being a part of this experiment to sign and return, as well as a link for APLI
+
+Phase 1
+Have the child behave normally for the first 3 days without APLI (this creates our baseline)
+Record their total time spent outside (which would be measured by their parent/guardian) and screen time over those 3 days by requesting the child’s parent/guardian to go into their primary device’s settings and relay the amount of time for each via method of communication
+
+Phase 2
+Give the child access to APLI for the next 3 days:
+How to use APLI: 
+Take a phone outside
+Search for and take a pictures of plants or animals
+Once satisfied/reached the limit of the amount of photos taken, go back inside 
+Open the application for APLI and identify the species you found. It will tell you the scientific and common name, as well as some basic facts such as diet, weight, and height
+After this, the application will put these species into your ‘collection’, where they will also be given rarities. The rarity of each species will determine how much Experience Points (XP) you receive for it
+The participant with the most XP will receive a certificate, giving them an esteemed title of “The First Champion of APLI”
+(this guide may be changed in the future, once APLI has been physically made and tested)
+
+Record their total time spent outside (which would be measured by their parent/guardian) and screen time over those 3 days by requesting the child’s parent/guardian to go into their primary device’s settings and relay the amount of time for each via method of communication
+
+Phase 3
+Take away APLI from the child’s possession for the last 3 days 
+Record their total time spent outside (which would be measured by their parent/guardian) and screen time over those 3 days by requesting the child’s parent/guardian to go into their primary device’s settings and relay the amount of time for each via method of communication
+Ask their parents/guardians a small questionnaire consisting of the following questions to provide further context or supporting evidence to the results:
+Did you notice any changes in your child's behavior during and after possession of APLI? If so, what exactly?
+Do you think there is any way of possibly improving APLI in the future? (ex. Did you encounter any bugs, or noticed an inconvenience in how it works?)
+Do you think that there is something that may not be accurate in these results? For example, if something unexpected came up?
+How would you and your child rate your overall experience with APLI?
+
+Facts:
+
+Children aged around 8-10 years old average about 6 hours of screen time per day, excluding the time they spend for schoolwork (Legner, 2026)
+Research shows that excessive screen time is connected to a variety of physical and mental health issues, including obesity, depression, and anxiety (Legner, 2026).
+The World Health Organization recommends that children aged five to 17 need to get at least 60 minutes a day of moderate-to-vigorous physical activity. (UNICEF, 2025)
+Children are more likely to take risks when playing outdoors (such as climbing trees or jumping from short heights). This risk-taking helps their overall physical health, as well as promoting their resilience, social skills, and creativity (UNICEF, 2025)
+“One small study, for example, found that even a 20-minute walk in a park improved the concentration of children with ADHD – more than a walk downtown or in a neighbourhood.” (UNICEF, 2025)
+
